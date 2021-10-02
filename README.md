@@ -21,12 +21,13 @@ Nome: Decorator
 
 Tipo: Estrutural
 
-Objetivo: 
+Objetivo: O decorator tem como principal objetivo auxiliar nos problemas que podem surgir com a herança de classes que possuem detalhes e especificações e com isso geram diminuição na geração de subclasses e aumenta o manejo dos métodos e atributos
+O objetivo é auxiliar no relacionamento na construção  de objetos ou classes, com as entidades.
 
 Diagrama:
 <br>
 <br>
-
+<a href="https://ibb.co/cY7Lrcs"><img src="https://i.ibb.co/Sf9r3XZ/Diagrama.png" alt="Diagrama" border="0"></a>
 
 ## 👨‍💻  Autores
 - Clarice Yamaoka Bravo 081190016
